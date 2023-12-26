@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learining **DSA & Problem Solving**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adityabhamare10](https://github.com/adityabhamare10)
 
